@@ -1,3 +1,3 @@
 # Data-analysis-on-cars
 
-# A basic data analysis of the cars manufactured in USA and Canada.
+# Basic data analysis of the cars manufactured in the USA and Canada.
